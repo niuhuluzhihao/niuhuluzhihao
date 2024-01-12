@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-# 技术栈
+### 技术栈
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=figma&logoColor=white)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-# 项目
+### 项目
 [![java](https://img.shields.io/badge/java-192133?style=flat-square)](https://github.com/xiaomao-97/java)
 [![javaweb](https://img.shields.io/badge/javaweb-192133?style=flat-square)](https://github.com/xiaomao-97/javaweb)
 [![python](https://img.shields.io/badge/python-192133?style=flat-square)](https://github.com/xiaomao-97/python)

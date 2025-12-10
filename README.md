@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 ### Hello world. 
 
 # 历史汇总
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=niuhuluzhihao&include_all_commits=true&count_private-true&custom_title=xiaomao-97'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niuhuluzhihao">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niuhuluzhihao&include_all_commits=true&count_private=true&custom_title=xiaomao-97&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niuhuluzhihao&layout=compact&hide_border=true&bg_color=192133&title_color=efb752&text_color=70bed9" />
+</p>
 
 
 
